@@ -1,0 +1,67 @@
+{
+    "IPC 378": {
+      "description": "Theft - Taking property dishonestly without consent.",
+      "keywords": ["theft", "steal", "stolen", "robbery", "burglary"]
+    },
+    "IPC 392": {
+      "description": "Robbery - Taking property by force or causing fear of injury.",
+      "keywords": ["robbery", "force", "threat", "weapon", "armed"]
+    },
+    "IPC 354": {
+      "description": "Assault or criminal force to outrage a woman's modesty.",
+      "keywords": ["assault", "molestation", "outrage modesty", "harassment"]
+    },
+    "IPC 302": {
+      "description": "Murder - Intentional killing of a person.",
+      "keywords": ["murder", "kill", "homicide", "intentional death"]
+    },
+    "IPC 323": {
+      "description": "Punishment for voluntarily causing hurt.",
+      "keywords": ["hurt", "injury", "physical attack", "wounds"]
+    },
+    "IPC 324": {
+      "description": "Voluntarily causing hurt by dangerous weapons or means.",
+      "keywords": ["dangerous weapon", "knife", "firearm", "attack"]
+    },
+    "IPC 509": {
+      "description": "Word, gesture or act intended to insult the modesty of a woman.",
+      "keywords": ["insult", "gesture", "harassment", "eve-teasing"]
+    },
+    "IPC 506": {
+      "description": "Criminal intimidation.",
+      "keywords": ["threaten", "intimidation", "scare", "force"]
+    },
+    "IPC 377": {
+      "description": "Unnatural offenses.",
+      "keywords": ["unnatural offense", "sodomy", "crime against nature"]
+    },
+    "IPC 497": {
+      "description": "Adultery.",
+      "keywords": ["adultery", "affair", "extramarital"]
+    },
+    "IPC 498A": {
+      "description": "Husband or relative of husband subjecting woman to cruelty.",
+      "keywords": ["domestic violence", "cruelty", "harassment", "dowry"]
+    },
+    "IPC 326": {
+      "description": "Voluntarily causing grievous hurt by dangerous weapons.",
+      "keywords": ["grievous hurt", "severe injury", "attack", "knife", "acid attack"]
+    },
+    "IPC 120B": {
+      "description": "Criminal conspiracy.",
+      "keywords": ["conspiracy", "plot", "illegal plan", "collusion"]
+    },
+    "IPC 420": {
+      "description": "Cheating and dishonestly inducing delivery of property.",
+      "keywords": ["cheating", "fraud", "dishonesty", "scam"]
+    },
+    "IPC 363": {
+      "description": "Punishment for kidnapping.",
+      "keywords": ["kidnapping", "abduction", "illegal confinement"]
+    },
+    "IPC 376": {
+      "description": "Punishment for rape.",
+      "keywords": ["rape", "sexual assault", "forced intercourse"]
+    }
+  }
+  
